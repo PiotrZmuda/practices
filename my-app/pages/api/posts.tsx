@@ -5,7 +5,7 @@ const posts: PostType[] = [
   {
     id: "1",
     title: "Pierwszy wpis na blogu",
-    content: "To jest pierwszy wpis na moim blogu!",
+    content: "Testuje githuba przed przystąpieniem do sprinty nr1",
   },
   {
     id: "2",
